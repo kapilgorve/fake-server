@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "orders": [
     {
         "__metadata": {
             "id": "https://js.syncfusion.com/demos/ejservices/wcf/Northwind.svc/Orders(10248)",
